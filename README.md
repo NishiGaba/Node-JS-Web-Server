@@ -1,4 +1,4 @@
-# Node-JS-Web-Server :boom:
+# Node-JS-Web-Server :boom:✨
 **How to run:**
 
 1. Install Node.js LTS Version from here https://nodejs.org/en/
